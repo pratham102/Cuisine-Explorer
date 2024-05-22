@@ -1,4 +1,4 @@
-# Restaurant Project
+# Cuisine Explorer
 
 Welcome to the Restaurant Project! This is a simple web application for showcasing a restaurant's menu and allowing users to make reservations.
 
